@@ -1,0 +1,27 @@
+{
+  "name": "StatTrak™ MP7 | Ocean Foam (Factory New)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_C9k4OG9YaJ0H_KfG2KvzedxuPUnGX6xlEl2tWmEzdyrd32RbQ5yXpB5RuIK4xaxxIGzY7zl5gza2YITnzK-0H3lsKvKCA",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "MP7"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Ocean Foam"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Factory New"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "StatTrak"
+    }
+  ]
+}

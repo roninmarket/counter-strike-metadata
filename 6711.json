@@ -1,0 +1,27 @@
+{
+  "name": "P250 | Iron Clad (Factory New)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwiVI0OL8PfRSLfWHD2uv0e94te16cCW6khUz_W2Hzd6heSjBbFd1CsFxF-8DsULulNLjZu6xtQDfitlCyiWt3HtNu3p1o7FVE3GEpAE",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "P250"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Iron Clad"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Factory New"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

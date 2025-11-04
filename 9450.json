@@ -1,0 +1,27 @@
+{
+  "name": "Souvenir MP9 | Music Box (Well-Worn)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f_C9k4vu8aaNoH_afAXCV0_1JveR9TiW6liIqtjmMj4K3cH3GPQQnDppwQuUMsRDrkYDgPuuxtgHdg4tByS39iyhLv3w_su4EU71lpPPSQvCizw",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "MP9"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Music Box"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Well-Worn"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Souvenir"
+    }
+  ]
+}

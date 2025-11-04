@@ -1,0 +1,27 @@
+{
+  "name": "StatTrak™ PP-Bizon | Cobalt Halftone (Well-Worn)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLzl4zv8x1a4s26fbZ8L_mAC1iYwOJwpO5nSha-kBkupjDLyt-peS2Ubw8lD8ciROQKtBK9ltOyMenitlaL2o9Gmymt2CJK63o-svFCD_Q2FfNMtA",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "PP-Bizon"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Cobalt Halftone"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Well-Worn"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "StatTrak"
+    }
+  ]
+}

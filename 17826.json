@@ -1,0 +1,31 @@
+{
+  "name": "★ Flip Knife | Marble Fade (Factory New)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1d4_u-V6VgH_2SHGWcxNFwseVscCW6khUz_WqBnt2qIyrBPwMoCcN1R7YCtRa7kofhY7nk4gzajNhEzyT43HhK6CZ1o7FVaZCrJoQ",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Flip Knife"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Marble Fade"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Factory New"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

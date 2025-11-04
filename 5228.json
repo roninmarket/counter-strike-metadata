@@ -1,0 +1,27 @@
+{
+  "name": "MP5-SD | Gold Leaf (Field-Tested)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1T9veRb6thJM-QD2qf_uNztOh8Qmeyxhwj427cz4z_d3yWOAQhCZcjF-cPtkLrwNzlYrvi5w3b3o9DzSivkGoXuQO1O0nU",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "MP5-SD"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Gold Leaf"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Field-Tested"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

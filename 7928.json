@@ -1,0 +1,27 @@
+{
+  "name": "SG 553 | Bulldozer (Field-Tested)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1I4M23bahhL-esA2KUyPt7_rNsGXGxkxkj4m-Dn9n7J3-fOgMkDpolE-9bthPtxIbiMuPm5wCMg41bjXKp3t_OfXM",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "SG 553"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Bulldozer"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Field-Tested"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "StatTrak™ Negev | Terrain (Minimal Wear)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1I_82gbaNoNs-HG3WB_vpzovNoRieMmRQguynLz4qgJyqWOg8iDZFyFOcD40axlYflNL7htgDb2thNmH6oinkc5yZt4fFCD_QbgNa1nA",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Negev"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Terrain"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Minimal Wear"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "StatTrak"
+    }
+  ]
+}

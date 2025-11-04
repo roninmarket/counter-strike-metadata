@@ -1,0 +1,27 @@
+{
+  "name": "USP-S | Bleeding Edge (Factory New)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkjYbf7itX6vytbbZSKOSsHGKU_utyt-R6cCW6khUz_TvRzd2tdy2WOlUoDZtxRLZY5xWwxty1Muzr4FCP2N5GmS-siywf7Xl1o7FVhoySCzY",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "USP-S"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Bleeding Edge"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Factory New"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

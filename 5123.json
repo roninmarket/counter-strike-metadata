@@ -1,0 +1,27 @@
+{
+  "name": "MAG-7 | Seabird (Minimal Wear)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wjFU0PO_faVSLPmUBnPel-oj5LhsTnniwRx15TmDn9esdXLGPFIlW5QiRuRftEG8xNTgMuLrtRue1dzd1mVtfQ",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "MAG-7"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Seabird"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Minimal Wear"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

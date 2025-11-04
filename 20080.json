@@ -1,0 +1,31 @@
+{
+  "name": "★ StatTrak™ Bayonet | Forest DDPAT (Minimal Wear)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLzn4_v8ydP0Pq3V6BpMPGHMWuZxuZi_rZrTSu3kxt_t2vSnN-rcn-SOA51WJN3Q7YMuxa9kdHlM77q4wKI2o5bjXKpkgWK6yM",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "StatTrak™ Bayonet"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Forest DDPAT"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Minimal Wear"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

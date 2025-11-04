@@ -1,0 +1,27 @@
+{
+  "name": "StatTrak™ MAG-7 | Foresight (Well-Worn)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wiFO0P-vb_NSMOKWCm6T1eFkj-xsSyCmmFMjt2iGy9uuJ33CPAUoDZt1R-MKu0Psm4flM-_nslSM2t4Tzi72hyMY8G81tL9psQ_4",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "MAG-7"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Foresight"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Well-Worn"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "StatTrak"
+    }
+  ]
+}

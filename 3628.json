@@ -1,0 +1,27 @@
+{
+  "name": "M249 | Impact Drill (Well-Worn)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wjFU0PmrcadiLP-BHVidxOp_pewnHH_hxEh35zjTzI2vdijCbld2CJMlR-cPtBC9wYDkNOmz5gKPj9hHzTK-0H3fKcx2IQ",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "M249"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Impact Drill"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Well-Worn"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

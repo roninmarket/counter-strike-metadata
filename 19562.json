@@ -1,0 +1,31 @@
+{
+  "name": "★ Shadow Daggers | Forest DDPAT (Field-Tested)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1L-uGmV6x0H_SXHmaE_uNztOh8QmewkUsi5jiBm9j6InmSZw4mC5B0Q-5ctRm-xtCyMu7g5ALb3Y9Nmy2tkGoXuT2EXBeX",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Shadow Daggers"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Forest DDPAT"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Field-Tested"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

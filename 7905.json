@@ -1,0 +1,27 @@
+{
+  "name": "SG 553 | Basket Halftone (Minimal Wear)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1T-82heqVjJ_WsDGaDyutij-1gSCGn2xxy6mndyNj6cnLCPAIlC5YkF-4Ku0W_ltDhPr6z5lfb2IJBniT7iy9XrnE8euhCJNg",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "SG 553"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Basket Halftone"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Minimal Wear"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

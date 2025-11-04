@@ -1,0 +1,27 @@
+{
+  "name": "XM1014 | Heaven Guard (Well-Worn)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLpk8ewrHZk7OeRcKk8cKHHMW-VwPhzvt5uWiihkSIqtjmMj4K3IiqXb1B2CpdzTbMOskO-wNbhZLiw51Hfio9NziX-2Hsf5i9v5OpTB71lpPNe0UvU1Q",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "XM1014"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Heaven Guard"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Well-Worn"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

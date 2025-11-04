@@ -1,0 +1,31 @@
+{
+  "name": "★ StatTrak™ Skeleton Knife | Fade (Factory New)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1I5PeibbBiLs-SD1iWwOpzj-1gSCGn20kjt2-En9mpcCmQag8hXsciQeJYthW9kILkMLji4g3Ygo8Uznj6jX9XrnE8raC5r1M",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "StatTrak™ Skeleton Knife"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Fade"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Factory New"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "P250 | Epicenter (Well-Worn)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwjIJuqKRYal9IfOHMWqVxedjva8wS3DrxEp_62vQyo6ucnufZw5zAsR5FO5b5kW7ltLnN-ji5FeL2YsQ02yg2aPm4JK4",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "P250"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Epicenter"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Well-Worn"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

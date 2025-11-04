@@ -1,0 +1,27 @@
+{
+  "name": "XM1014 | Teclu Burner (Field-Tested)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLpk8ewrHZk7uORcKk8cKHHMW-f1dFkv-VWQiy3nAgq_WzWy9mpJC2WalAhXMRyReBf4xC7xNW1Mr634VaIio0UxSWr3H9N6n11o7FVzfmal4o",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "XM1014"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Teclu Burner"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Field-Tested"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

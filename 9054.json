@@ -1,0 +1,27 @@
+{
+  "name": "Souvenir Glock-18 | Green Line (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2kpnj9h1c4_2tY5t5MvGaAFiX0-tzvt5hSiiljFMh5Tjdz9mgIHieaQ9xXsN2FLYKsxnuwYDkY7jltQDbjN0WxC-ojiJJ8G81tKxezTPb",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Glock-18"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Green Line"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Souvenir"
+    }
+  ]
+}

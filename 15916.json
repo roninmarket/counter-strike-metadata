@@ -1,0 +1,27 @@
+{
+  "name": "USP-S | Bleeding Edge (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkjYbf7itX6vytbbZSKOSsHGKU_utyt-R6cCG2lAs-_T_Wyd7_dSmfP1UlA5QiRuRbtUK5kdbuNLm3swbYiNlByn73jyhA6C91o7FV9K40dts",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "USP-S"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Bleeding Edge"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

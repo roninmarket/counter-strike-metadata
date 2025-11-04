@@ -1,0 +1,27 @@
+{
+  "name": "MAC-10 | Commuter (Field-Tested)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2ifaNqIfeWMWqRwr8mj-xsSyCmmFNx426HzompeH_CZgAkXJtzFrMO4RC-m9PiYeLjtQKK3o4Qnyr_iC8d8G81tICYxYwy",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "MAC-10"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Commuter"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Field-Tested"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

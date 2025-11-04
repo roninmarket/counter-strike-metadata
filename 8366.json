@@ -1,0 +1,27 @@
+{
+  "name": "SSG 08 | Spring Twilly (Well-Worn)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLijZGwpR1T9s26eqVkLvGBDW-Z1et1pN5uXSy2myIqtjmMj4K3J3KVPVUoCccjFuZe40O6l9HjP76051SIjoNBzn_82yoYv31j4ekCB71lpPPeEH9LBA",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "SSG 08"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Spring Twilly"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Well-Worn"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

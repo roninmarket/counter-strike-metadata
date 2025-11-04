@@ -1,0 +1,27 @@
+{
+  "name": "Souvenir MP7 | Prey (Minimal Wear)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf7jJk9feseqVuIf2sHGKU_uJ_t-l9AXvqwUsk4DyHnIr7eHySbg8gWcckTOUCsxawk9O1ZeywsQOIg95AznjgznQehcsrUP8",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "MP7"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Prey"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Minimal Wear"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Souvenir"
+    }
+  ]
+}

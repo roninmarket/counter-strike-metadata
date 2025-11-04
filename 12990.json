@@ -1,0 +1,27 @@
+{
+  "name": "StatTrak™ MP7 | Armor Core (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_DNk4uL5V7FhNOKSA2iUxPx4j-lsTj-q2x534D_dzo6sI36VZlAgAsBxR7VftEW7l4K1Zb-041CLg91AzXqoiitXrnE82KEWOkU",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "MP7"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Armor Core"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "StatTrak"
+    }
+  ]
+}

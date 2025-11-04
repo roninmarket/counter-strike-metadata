@@ -1,0 +1,27 @@
+{
+  "name": "StatTrak™ Nova | Dark Sigil (Field-Tested)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_kYDhwixU-fORbLZsK_uSHFidxOp_pewnHHnjxBx-5jjRydutdn-TPQ51XpQmQrIM4EOwx9O1Y-7mswaKgowRxDK-0H0zYVmmQg",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Nova"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Dark Sigil"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Field-Tested"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "StatTrak"
+    }
+  ]
+}

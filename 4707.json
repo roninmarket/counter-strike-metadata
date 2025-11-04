@@ -1,0 +1,27 @@
+{
+  "name": "MAC-10 | Last Dive (Field-Tested)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a7s2jaac8cM-HBmKvze9lpN5tRj-2qhAitzSQl8Gqc3vBbg4oC8d3ReQO4xTpkNTlNbzq71GPit5NzCushyNOuCli4OgKT-N7rYxX70ns",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "MAC-10"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Last Dive"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Field-Tested"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

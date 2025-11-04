@@ -1,0 +1,27 @@
+{
+  "name": "Galil AR | Robin's Egg (Field-Tested)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2n5rp8SNJ0OGhbZt_L_KaAHSVxulJveRtRjy-20p16j6AmNz6dC-TPAMiCsN0EOIIshKxlda2Y-Pm4wLb390UyCz52CNXrnE8PJA-b24",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Galil AR"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Robin's Egg"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Field-Tested"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

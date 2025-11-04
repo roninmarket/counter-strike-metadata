@@ -1,0 +1,27 @@
+{
+  "name": "R8 Revolver | Leafhopper (Minimal Wear)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLjm4Dv8TRe_c2veZt5KeSSAG6FzNF3s-htcCW6khUz_W-Gy96pJXmWOwJyX8QlF7Zeshm5wYbiMOvm5laLjohNxCis3S8a5311o7FVOU-zWog",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "R8 Revolver"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Leafhopper"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Minimal Wear"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

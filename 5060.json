@@ -1,0 +1,27 @@
+{
+  "name": "MAG-7 | Navy Sheen (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wiNW0Pyvfr1SM_iaAGKvyet3pvgnGHvqlhkitWWGno2sJCiTPwF2C5F3RrZY50a8kIfvMurr4Qbcg95ByDK-0H3bowQc0A",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "MAG-7"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Navy Sheen"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

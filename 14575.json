@@ -1,0 +1,27 @@
+{
+  "name": "StatTrak™ Sawed-Off | Orange DDPAT (Well-Worn)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLin4Hl-S1d6c2mcZtpJOCSGlif0-94t-RWQiy3nAgq_W_WmNivci6WbgYkDptwQOZcsULqkt3iNLjq5Qfd395Fyy_42itNvCh1o7FV_H8QANk",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Sawed-Off"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Orange DDPAT"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Well-Worn"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "StatTrak"
+    }
+  ]
+}

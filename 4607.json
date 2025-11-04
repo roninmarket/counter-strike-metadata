@@ -1,0 +1,27 @@
+{
+  "name": "MAC-10 | Commuter (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2ifaNqIfeWMWqRwr8mj-lsTj-q2x526jvcz46uIC-VbgQoC8RwRu4K4UXum9fnP-m0swTbiIIXnHn3hihXrnE8YO7YeDM",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "MAC-10"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Commuter"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

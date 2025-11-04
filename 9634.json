@@ -1,0 +1,27 @@
+{
+  "name": "Souvenir P250 | Facility Draft (Factory New)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwipC0PCifaF9MvmdGliCxOpJvOhuRz39l05wt2XRzNr7dHjCalBxXschRucD4xnpwIfhN7ngtVTe2tlCyi_5hzQJsHgA1f7ZYg",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "P250"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Facility Draft"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Factory New"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Souvenir"
+    }
+  ]
+}

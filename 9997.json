@@ -1,0 +1,27 @@
+{
+  "name": "Souvenir Tec-9 | Toxic (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLlm5W5wipC0Py7a6hoIeKsHWyFzeJl5d59SirqqhUisiuc1I2uIn-RbFMhCpEhQeAD4RnqxobnYuzr5VGNiY1GmH-viHlM6Cw56u8cEf1yE8RyuWg",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Tec-9"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Toxic"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Souvenir"
+    }
+  ]
+}

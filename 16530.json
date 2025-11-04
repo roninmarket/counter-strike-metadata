@@ -1,0 +1,27 @@
+{
+  "name": "XM1014 | Ziggy (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLpk8ewrHZk7uORcKk8cKHHMX2Zxulvj-BnTjuwnQQYuziEjJa3dH2fbgB0DcZ1TO4M5hDpxNSxZejn7wDdiY4QmSj5iCga6X5t6-tRVb1lpPOGBZzpmw",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "XM1014"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Ziggy"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

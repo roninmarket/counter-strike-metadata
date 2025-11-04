@@ -1,0 +1,27 @@
+{
+  "name": "StatTrak™ Sawed-Off | Origami (Field-Tested)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLin4Hl-S1d6c2tfZt-IeeWCmiWx9F5ouhuTiS6qhAitzSQl8GpcnzCaFB2XpAlF7ICsRWxktzvYrnr7gOK3ooTxX6rjy8b6i9s4LlQT-N7rVTp7d8U",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Sawed-Off"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Origami"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Field-Tested"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "StatTrak"
+    }
+  ]
+}

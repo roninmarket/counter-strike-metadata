@@ -1,0 +1,27 @@
+{
+  "name": "R8 Revolver | Bone Forged (Field-Tested)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLjm4Dv8TRe_c2pe5t_eM-fC3GZwPp-se9WQiy3nAgq_W-Dz4n9d3nBawchCZB4FOUOs0S7lNbnYujk5VGPi4pNziWsii9L53l1o7FVy42gbJI",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "R8 Revolver"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Bone Forged"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Field-Tested"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

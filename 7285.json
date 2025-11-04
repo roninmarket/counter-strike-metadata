@@ -1,0 +1,27 @@
+{
+  "name": "PP-Bizon | Bamboo Print (Well-Worn)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLzl4zv8x1T9s2saalvL_-sBHKexuJzj-hnRBa-kBkupjDLyIuodS2QaQYkCccjR-MNuha4kNTvPuK34QDe3YhCzyz4jikb6Cxo4_FCD_RccL6Srg",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "PP-Bizon"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Bamboo Print"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Well-Worn"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

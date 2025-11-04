@@ -1,0 +1,27 @@
+{
+  "name": "Galil AR | Grey Smoke (Field-Tested)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2n5rp8SNJ0OGha6xSIvycHGWvw_lJt-BlRiWyhyIqtjmMj4K3dHmXbgMnWJN3QOIIuka6kYfhY7vnsgfd3o5AyS37jX4b7CltsuxXBL1lpPOhUlu5UA",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Galil AR"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Grey Smoke"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Field-Tested"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

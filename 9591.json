@@ -1,0 +1,27 @@
+{
+  "name": "Souvenir P250 | Apep's Curse (Field-Tested)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwiVI0OL8PfRSIeCWHlidxOp_pewnGnm2kRh06z-GytyqdnifbgQgXJJ3Q7VfskbslYbnMezl5lGL2owQxTK-0H2PNN-2XA",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "P250"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Apep's Curse"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Field-Tested"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Souvenir"
+    }
+  ]
+}

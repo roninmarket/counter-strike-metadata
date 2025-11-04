@@ -1,0 +1,27 @@
+{
+  "name": "Glock-18 | Nuclear Garden (Field-Tested)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2kpnj9h1a4s2gfadhJfGBMXSb1OJ6o95uXSy2myIqtjmMj4K3eX3DbgIgXpciQbUDuxa6k4G0Yrzq5AOI2YJCyyv-jCkdvC5qt-5XU71lpPNwWtaaBA",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Glock-18"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Nuclear Garden"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Field-Tested"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "★ Gut Knife | Damascus Steel (Field-Tested)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1c-uaRabVSJPGeD3ST1P1JveRtRjy-2xsl4myGz9mpc3mXbFAmCZMkRbZZsxWxlNy0Nu6xsQLZidgXmCz33SpXrnE8y4aMkiQ",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Gut Knife"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Damascus Steel"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Field-Tested"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

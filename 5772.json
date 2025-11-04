@@ -1,0 +1,27 @@
+{
+  "name": "MP9 | Pandora's Box (Minimal Wear)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f_CNk__OgbKt_Ic-fB2CY1aAv5LE9Hyu1wUtx5WTUyYmrcHiUbgIlCcF5Q7RZtUKwlNDiZL7q4QTblcsbmlthBLtr",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "MP9"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Pandora's Box"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Minimal Wear"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "MP7 | Short Ochre (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf7i1k4ue9fKV_JM-bC2aG2KAh47MxSnDkzE524G6BnIn7I3OfawAiWMd2QOACtEKxxILkMLnltVPYlcsbmg9oUj0u",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "MP7"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Short Ochre"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

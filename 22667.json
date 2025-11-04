@@ -1,0 +1,31 @@
+{
+  "name": "★ Ursus Knife | Stained (Well-Worn)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1O_eG7e5tsMc-VAXWTxOpJveRtRjy-20l2t2jXnN_9JHiVawQlAsAkR-8I5xe7l4HgYenqswXajoMXyyn7iStXrnE8mbhhUHk",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Ursus Knife"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Stained"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Well-Worn"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

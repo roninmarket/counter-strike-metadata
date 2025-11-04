@@ -1,0 +1,27 @@
+{
+  "name": "Five-SeveN | Sky Blue (Well-Worn)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRe6toH_KfG2KvwOByj-JhXSa-kCIqtjmMj4K3IHuXOwR1ApUjF-ZbuhC6wdTgM77hsgDdjoMWmC_8iCtAuilu5OgBVr1lpPOTiBsL_A",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Five-SeveN"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Sky Blue"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Well-Worn"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

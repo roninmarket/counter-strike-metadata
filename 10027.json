@@ -1,0 +1,27 @@
+{
+  "name": "Souvenir UMP-45 | Fallout Warning (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkk4a0qB1I_82gfa9oM-SBB3eV_uN3ou5mQRa7kBwxqnPSydurI3-UbAB2X5R2RORftRi-lYfiNuywsVPcgoIQmySriH9P5y0__a9cBlAJ3BHo",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "UMP-45"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Fallout Warning"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Souvenir"
+    }
+  ]
+}

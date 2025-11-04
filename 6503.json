@@ -1,0 +1,27 @@
+{
+  "name": "P2000 | Urban Hazard (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0PG7V7Q_cKDDMXKCw-94j-loVSihkSIvtjyTg8H8cnrCPVVzXJsjQrQJ4Ba-kdG2Y-_q7wzeiosTyC3-hnlO5yhuse4GT-N7rZ8heMTY",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "P2000"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Urban Hazard"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

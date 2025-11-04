@@ -1,0 +1,27 @@
+{
+  "name": "Sawed-Off | Devourer (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLin4Hl-S1d6c2tfZt-IeeWCmiWx9FytfdmWju2hyIvtjyTg8H8InjFbgQlXJdyR-cP40XpmtDjNbjjtFDZgogUxC_-ji8f7SZv674FT-N7rSZJ72mi",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Sawed-Off"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Devourer"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "MAG-7 | BI83 Spectrum (Field-Tested)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wiVI0P-vb_NSIvmAA3KEydF7teVgWiT9zUVx5z-Bmd-td3OebFN0CJMhTbZb5xixltDmM-7i4QzcjIpDzir_izQJsHiZg4Ff_Q",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "MAG-7"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "BI83 Spectrum"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Field-Tested"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "G3SG1 | VariCamo (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2zYXnrB1T9s24abZkI_GeAViYxO9gqa89Sy3jk04i4jmAmNapdX7Ga1MnXJYhEbIL5BPpm9LmMr-3tQze2d8U02yg2VQdRWSQ",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "G3SG1"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "VariCamo"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "SSG 08 | Green Ceramic (Factory New)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLijZGwpR1I4M2tbbZsLfmQMWCCxOt4j_J6SHnrqhEutDWR1Ir9cnvCZwN2X5IiEOQKtxDsxofnYu7k5ATeg4xCny-o2yNKuy0_5r4cEf1ysR10Fgo",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "SSG 08"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Green Ceramic"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Factory New"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

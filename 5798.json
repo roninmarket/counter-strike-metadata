@@ -1,0 +1,27 @@
+{
+  "name": "MP9 | Sand Scale (Field-Tested)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f_CNk5_uqbelgMKmsA2KUyPt7_uQ6Tny2zUp35juHzNaodi-RZw8mCJVzTe9ZshW9ktziP7m05lONgotbjXKpD1WBnwg",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "MP9"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Sand Scale"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Field-Tested"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

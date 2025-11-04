@@ -1,0 +1,31 @@
+{
+  "name": "★ StatTrak™ Flip Knife | Bright Water (Well-Worn)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1d4_u-V6x0H_-QC2ae_uV4uedscCS2kRQyvnOEzYuuIHiSZwMnDpUiRu4L4BDskd21Zujq7waMjtlMxC762Coc7344_a9cBsQbLxYi",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "StatTrak™ Flip Knife"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Bright Water"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Well-Worn"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

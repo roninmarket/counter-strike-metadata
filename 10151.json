@@ -1,0 +1,27 @@
+{
+  "name": "Souvenir XM1014 | Run Run Run (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLpk8ewrHZk9___OPU5H_aBC26XyfpJuORoWTD9wU9-6miHzNetd3mWbQchA5ZyTOAKuhKxx9SyNOLjtgTb2d4UyiWojDQJsHiHJ35Cew",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "XM1014"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Run Run Run"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Souvenir"
+    }
+  ]
+}

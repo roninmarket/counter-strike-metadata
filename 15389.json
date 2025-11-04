@@ -1,0 +1,27 @@
+{
+  "name": "Tec-9 | Groundwater (Minimal Wear)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLlm5W5wjFU0P2iYbJoH_yaCW-Ej7om4eQ6H3zrxEwk4T-HmN78dirCb1MmA8Z3Re8D5hS5x9KzYrvkslPAy9USDDHRuWI",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Tec-9"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Groundwater"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Minimal Wear"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

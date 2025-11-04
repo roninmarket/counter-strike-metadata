@@ -1,0 +1,27 @@
+{
+  "name": "Glock-18 | Royal Legion (Well-Worn)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2kpnj9h1c_M2pZKtuK6HLMWaHwPxyj-xsSyCmmFMjtjyBmd38cyiTaQQhCpYmF-FesRTql9GxM-_h4QDY2d0Wm36tiX9M8G81tOeuczwi",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Glock-18"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Royal Legion"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Well-Worn"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

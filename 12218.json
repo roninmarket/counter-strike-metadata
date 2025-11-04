@@ -1,0 +1,27 @@
+{
+  "name": "StatTrak™ M4A1-S | Flashback (Well-Worn)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_OGMWrEwL9Jtu1oXCGxlB4sjDCAnobsLGWRaVBxXJclE-5etxi8w9fgZuPr5VHbjYhGmSmvjStIvyk_trwBB6tx5OSJ2FUBQo_f",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "M4A1-S"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Flashback"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Well-Worn"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "StatTrak"
+    }
+  ]
+}

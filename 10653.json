@@ -1,0 +1,27 @@
+{
+  "name": "StatTrak™ AWP | Chrome Cannon (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_DVL0OarZbRoMvWXMW-VwPhv_uU8TH_mkEhw4G_Qz9ysIi7FPwUnWJVxQeFfs0O5kYXkZeK0tQPYit9bjXKpwExlWDc",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "AWP"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Chrome Cannon"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "StatTrak"
+    }
+  ]
+}

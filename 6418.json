@@ -1,0 +1,27 @@
+{
+  "name": "P2000 | Oceanic (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0Pq3V7Q_cKDDMWiTxO94ud5hSiiljFN2sGmBzoqscn-Wa1MlA8R3RLNfsEbpwYa1Mryzs1fb2o9BxS-q2H9M8G81tEVrcWHR",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "P2000"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Oceanic"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

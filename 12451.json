@@ -1,0 +1,27 @@
+{
+  "name": "StatTrak™ M4A4 | In Living Color (Well-Worn)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0P_6afBSLP-FC1idxOp_pewnTS2xl0gk5WjSztqreX3EOgYnCcN1EOQK5xK6k4HjPumz4VPW2dhAmzK-0H1CdgX2Fw",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "M4A4"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "In Living Color"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Well-Worn"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "StatTrak"
+    }
+  ]
+}

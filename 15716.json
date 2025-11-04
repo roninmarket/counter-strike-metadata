@@ -1,0 +1,27 @@
+{
+  "name": "UMP-45 | Gunsmoke (Factory New)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkk4a0qB1T9s2pbah9Jf6sAm6Xyfo4trM5GCzrkE5w42jVzYqgdijBalR2CMd4R-JeuhS8lNXjN7nj4gTa2pUFk3skeb6bFA",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "UMP-45"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Gunsmoke"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Factory New"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

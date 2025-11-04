@@ -1,0 +1,27 @@
+{
+  "name": "MP9 | Ruby Poison Dart (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f_C9k4uL3V6pkNOKcCWKe_uZzsfdwAX6ylkt-52zVn9z7cXjDagJ2X5ckFrYC4EPsx4HlZbnm4FfciINGmC7gznQewvkfx3Y",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "MP9"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Ruby Poison Dart"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "MP7 | Whiteout (Minimal Wear)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf7i1k-PqnfKFiNeSsAm6Xyfo4teU9Hirmx0gh4GXdy9atInqfOAcgCscmRrNetxewl9HjP7_jsgfei5UFk3u-0OOK7w",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "MP7"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Whiteout"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Minimal Wear"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

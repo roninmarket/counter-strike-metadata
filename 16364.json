@@ -1,0 +1,27 @@
+{
+  "name": "XM1014 | Grassland (Minimal Wear)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLpk8ewrHZk_P2Rb7ZsM-OfD2mU_uJ_t-l9AXq1lxsh5mqDm4qodXyVOgUgW5MjRu8CtEPrldHmPrnm4lbZiY1Az3jgznQeEo4wiRY",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "XM1014"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Grassland"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Minimal Wear"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

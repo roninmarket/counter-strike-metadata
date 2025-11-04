@@ -1,0 +1,27 @@
+{
+  "name": "AK-47 | First Class (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wiFO0PW8baFjH_yWD3OYxPxJseo9GBa7kBwxqnPTzt7_cyrCbQNyDZR0R-5c5xnpl4GzZr_g41CPiINAnC_52y9I6Ctj_a9cBpDOnaI7",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "AK-47"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "First Class"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

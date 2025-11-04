@@ -1,0 +1,27 @@
+{
+  "name": "AUG | Copperhead (Minimal Wear)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwi5Hf9Ttk7P2-eKF_KPWSClicyOl-pK9oTCvmk0hw5TzXytqodXzEOgYlCsMjQ7YDshG_wdbkNLjltgPb39pM02yg2WdB2M5V",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "AUG"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Copperhead"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Minimal Wear"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

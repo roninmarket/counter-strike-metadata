@@ -1,0 +1,31 @@
+{
+  "name": "★ Moto Gloves | Finish Line (Factory New)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu4r7_lb1QgTykpPf-i5U-fe9V6liNP-BDX6TzetJs-lsTCK2hyIhvzyCpY31NC74OUR1X8wfHbJb9Fmmm4WyZeKx5QLdg91DzS6vjHgauCk_teoLVaYjrqPWjA7JZbw64JdSJuHnE0oPZti6RQ",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Gloves"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Moto Gloves"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Finish Line"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Factory New"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

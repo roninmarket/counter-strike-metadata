@@ -1,0 +1,31 @@
+{
+  "name": "★ Survival Knife | Night Stripe (Minimal Wear)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5t-MM-dB2CY1f1iouh5Sha_nBovp3PVnN6uIn2VPQEiA5ZzR-BfuhS5loCxNO7gtFTa34hEyS75iS4duHk6_a9cBmI-JI41",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Survival Knife"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Night Stripe"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Minimal Wear"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Souvenir MAC-10 | Urban DDPAT (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1T9s2qbLRsNM-GHGWvyet3pvgnHX7hwR4jsmzVz9egJy7Db1QoW5R2FuMK4RHsmtThYeOxtQTWj9oRmzK-0H1hsE3QeQ",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "MAC-10"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Urban DDPAT"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Souvenir"
+    }
+  ]
+}

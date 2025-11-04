@@ -1,0 +1,31 @@
+{
+  "name": "★ StatTrak™ Bowie Knife | Boreal Forest (Well-Worn)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1I-uC4YbJsLM-RAXCZxNF-qd5vQDu2hgkYsTKXn471HibCOl9lV4xwQudYsBfpktflM-Ll4gyM2ItEmHj9hntL6yZs6u9RUqIkr_fei1mVL_RjtiiYBzKz",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "StatTrak™ Bowie Knife"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Boreal Forest"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Well-Worn"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "AK-47 | Olive Polycam (Field-Tested)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wipP0OKhZL1SI_GeAViRyrohj-xsSyCmmFMi6j7Vydf8dH7GbVIlCZEjR-EJ5hPrwYDhYe7r4gWIj45GnCyq3StK8G81tEXjZ_VA",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "AK-47"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Olive Polycam"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Field-Tested"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "StatTrak™ AUG | Bengal Tiger (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwi5Hf9Ttk-_upbbZSKPWSGH7exet357ZvTC-ylhkl4WmHnNitcS_DP1d2CZt0EeUI4xW5m4bgY-zl4Rue1dyXmqiSSw",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "AUG"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Bengal Tiger"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "StatTrak"
+    }
+  ]
+}

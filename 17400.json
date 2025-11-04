@@ -1,0 +1,31 @@
+{
+  "name": "★ Driver Gloves | Diamondback (Well-Worn)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5T441rsfhr9kYDl7h1I4_utY5t-LvGYC3SbyOBJqeRlQyakqhAitzSQl8Gtci3GPVMjDpF4Q-VctBDsxofvNu7q7laIidoWyCurinlLvCZs5uoCT-N7rVZ4DgvH",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Gloves"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Driver Gloves"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Diamondback"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Well-Worn"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "★ Paracord Knife | Crimson Web (Minimal Wear)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y4OCqV6x0H-eWDHSvzedxuPUnGH_gx0pxtT-Dm9uvdXrGbAFzCsZ5Ee9YtkTpx9LgYuPjtA3djotByDK-0H0Jjl4AqA",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Paracord Knife"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Crimson Web"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Minimal Wear"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

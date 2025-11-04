@@ -1,0 +1,27 @@
+{
+  "name": "UMP-45 | Fallout Warning (Field-Tested)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkk4a0qB1I_82gfa9oM-SBB3eV_uN3ou5mQRa-kBkupjDLw9__Iy_FOwclW5d2EedeuxLultzmM-qw4lCPiI9Dn3n4jXxNui054_FCD_SE_zBWhQ",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "UMP-45"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Fallout Warning"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Field-Tested"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

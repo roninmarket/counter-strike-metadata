@@ -1,0 +1,31 @@
+{
+  "name": "★ M9 Bayonet | Black Laminate (Field-Tested)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Wts2sab1iLvWHMWSF_uMvj-NoVhaggRIptiqEiYfGLC7DN0N9FMMhELFYtRLpx9W0MLjh4Q2L2d9AyHiv3HhKvCc44L0CAKJxrPfXjADfcepqy0ujMBs",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "M9 Bayonet"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Black Laminate"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Field-Tested"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

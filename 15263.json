@@ -1,0 +1,27 @@
+{
+  "name": "Tec-9 | Army Mesh (Field-Tested)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLlm5W5wjFL0P-re6xSIeKeF1idxOp_pewnGnzlzR5w42yDz9j7JXKSOFQjC5F0Qu4ItxS5wN3uPry24QaLit9HnDK-0H3LSYA00Q",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Tec-9"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Army Mesh"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Field-Tested"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

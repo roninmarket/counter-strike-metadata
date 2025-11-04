@@ -1,0 +1,31 @@
+{
+  "name": "★ Sport Gloves | Amphibious (Minimal Wear)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk5UvzWCL2kpn2-DFk_OKherB0H-CcB3Sfz9Fwou5ucCu_gBgYpDWMjorGLSLANkI-XpomRrZcukK-k4bkZriz51aIg4NAxCqqi3gd631qt-ZTWaBw-6SGihaBb-N5lychEw",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Gloves"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Sport Gloves"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Amphibious"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Minimal Wear"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

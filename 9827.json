@@ -1,0 +1,27 @@
+{
+  "name": "Souvenir SG 553 | Damascus Steel (Factory New)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1a_s2qaalsM_OGHViDxrsj495lRi67gVMj4miGzteseXjBbAJxXsEjEOQK50axk9C1ZuPi4wbX39gRnC33iipJ8G81tD-xNff9",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "SG 553"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Damascus Steel"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Factory New"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Souvenir"
+    }
+  ]
+}

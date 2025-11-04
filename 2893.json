@@ -1,0 +1,27 @@
+{
+  "name": "Galil AR | Chromatic Aberration (Field-Tested)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2n5rp8SNJ0PG7V6NsLPmfMWSY0-F7sd55Rie4qhAitzSQl8GgI33FOgVyCMNyTe8OsEPrmtDuZuqw5Azf2N5Nzi382iJO6Sds4uZRT-N7rYMVaF_m",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Galil AR"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Chromatic Aberration"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Field-Tested"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

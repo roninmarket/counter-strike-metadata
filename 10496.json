@@ -1,0 +1,27 @@
+{
+  "name": "StatTrak™ AUG | Arctic Wolf (Field-Tested)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwi5Hf_jdk7uepV7NlKeSWCGaextF7teVgWiT9xBwk5G-BmYz8JXPGOAMiA8B4F-ZZtxi9kIfiMerjtgeIgosRniT32jQJsHiS1u_9AQ",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "AUG"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Arctic Wolf"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Field-Tested"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "StatTrak"
+    }
+  ]
+}

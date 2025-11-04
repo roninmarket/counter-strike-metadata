@@ -1,0 +1,27 @@
+{
+  "name": "StatTrak™ Galil AR | Orange DDPAT (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2n5rp8SNJ0Pq3V6BpMPGHMWiCwOBxtd5hSiiljFNzsm-Dy9v_eH2SawFzXpt5Q7NZuka_w9e2Y-_j4QfZ34tAmCSv2Hkb8G81tBLQ5Af1",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Galil AR"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Orange DDPAT"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "StatTrak"
+    }
+  ]
+}

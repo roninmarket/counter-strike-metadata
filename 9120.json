@@ -1,0 +1,27 @@
+{
+  "name": "Souvenir M249 | Contrast Spray (Minimal Wear)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wjFL0OG-eqV0H_yaCW-Ej-shsbBtS3q2wkUitWzUz9b_c3vEZ1UhD5R4F-QL40a8m4HuZbnitlfAy9USVV6qaxA",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "M249"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Contrast Spray"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Minimal Wear"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Souvenir"
+    }
+  ]
+}

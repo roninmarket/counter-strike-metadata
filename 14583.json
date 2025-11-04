@@ -1,0 +1,27 @@
+{
+  "name": "StatTrak™ Sawed-Off | Serenity (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLin4Hl-S1d6c2tfZt-IeeWCmiWx9FytfdocCG2lAs-_WWAn9b4JS6RbgMpCsciR7FZuha4ltbvZO7msgaP2d9CmCn-3X5Jv3l1o7FVYCeG0ds",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Sawed-Off"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Serenity"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "StatTrak"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "★ Paracord Knife | Night Stripe (Well-Worn)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y4OCqV7d9H_6aCW-E0vpkufFscCS2kRQyvnOEn4yoJ33GOld0CpMjTeYJ50HplYDiY-jntgHf3YtNzS_5jC5NvSdr_a9cBkdqBnUE",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Paracord Knife"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Night Stripe"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Well-Worn"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

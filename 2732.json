@@ -1,0 +1,27 @@
+{
+  "name": "G3SG1 | Hunter (Field-Tested)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2zYXnrB1c_M2pO7dqcc-QC3OdxNFkteV8Vxa-kBkupjDLzN2peH7EPwMhD5F1Q-4DtRe-moW2Puvr4VfcjdgTzin-jitJ5y1q4fFCD_T9dY7VPQ",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "G3SG1"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Hunter"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Field-Tested"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

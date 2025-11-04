@@ -1,0 +1,27 @@
+{
+  "name": "P2000 | Urban Hazard (Well-Worn)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0PG7V7Q_cKDDMXKCw-94j-loVSihkSIqtjmMj4K3InLDZgJ2WJQmR-RY40HqkNLhZu224w2PiY1FyS7-33lMu31ptekCVb1lpPP7RVtX1g",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "P2000"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Urban Hazard"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Well-Worn"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "StatTrak™ UMP-45 | Exposure (Well-Worn)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkk4a0qB1Y-s27ZbQ5dc-LQ3WR2NF7seJhRie2qhAitzSQl8GseHqRbQIoCpp2QLULthi5m9G1Y-yz5QKN3Y4Xm3mthyxMuyptsr1WT-N7rb0To1cU",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "UMP-45"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Exposure"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Well-Worn"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "StatTrak"
+    }
+  ]
+}

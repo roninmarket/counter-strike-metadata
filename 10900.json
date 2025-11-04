@@ -1,0 +1,27 @@
+{
+  "name": "StatTrak™ CZ75-Auto | Tigris (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1Y-s2tP_FsbeSaCWKC_uZzsfdwASyywhx_tW3WnNivcXLCbQUgA5N0QO8K4BC9m9LjMuzrtVfW39pHmSrgznQeaPQBvKo",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "CZ75-Auto"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Tigris"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "StatTrak"
+    }
+  ]
+}

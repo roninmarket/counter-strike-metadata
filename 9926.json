@@ -1,0 +1,27 @@
+{
+  "name": "Souvenir Sawed-Off | Amber Fade (Factory New)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLin4Hl-S1d6c2vaZtrIfSWMWqV1e96vOhqcCW6khUz_TuHwt2odHKROA90WZN2Fu4DsEO-mtTlNLiws1SNi99NxHmtj3tI5n11o7FVJSB89LY",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Sawed-Off"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Amber Fade"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Factory New"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Souvenir"
+    }
+  ]
+}

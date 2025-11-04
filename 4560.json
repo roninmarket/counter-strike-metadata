@@ -1,0 +1,27 @@
+{
+  "name": "MAC-10 | Button Masher (Well-Worn)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2jaac8cM-DAXWEwOx6td5kSi26gBBpsD-Gz96qJC2XbA92WcMlQOEI5hK-w4HjN7nns1Peg4xFnCv42iob6TErvbjYjRhYmg",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "MAC-10"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Button Masher"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Well-Worn"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

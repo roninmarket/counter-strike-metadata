@@ -1,0 +1,27 @@
+{
+  "name": "PP-Bizon | Modern Hunter (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLzl4zv8x1T9s2mfap5JeKsA2iUxPx4j-lsTj-q20h35m2Hz9ihcSqXPFcoWcQhFOQD4xe5l9fvNru35VeP2Y9Emyv3jnxXrnE8ubl8lHk",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "PP-Bizon"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Modern Hunter"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

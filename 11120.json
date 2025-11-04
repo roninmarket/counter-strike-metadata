@@ -1,0 +1,27 @@
+{
+  "name": "StatTrak™ Desert Eagle | Trigger Discipline (Well-Worn)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7OeRbKFsJ8-HHG6Xxutkj-VgXCq6hREuvTi6l4r9KD7KcFcmD8R0QecNtkTsw9HgPrzgtAGMjo0TmX2r2y4duiZutesLBKZ2r6zJz1aWAJe-_z0",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Desert Eagle"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Trigger Discipline"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Well-Worn"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "StatTrak"
+    }
+  ]
+}

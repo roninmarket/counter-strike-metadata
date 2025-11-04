@@ -1,0 +1,27 @@
+{
+  "name": "P90 | Desert Halftone (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf9TZk_PujeKhoH_OSA2ivyet3pvgnHnnhlh4i4D_RyIr9cH6TPwQjCpElEO4J4BPswN3gN-Kw4FHbi91MmDK-0H335Pb3Tg",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "P90"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Desert Halftone"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

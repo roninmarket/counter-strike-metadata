@@ -1,0 +1,27 @@
+{
+  "name": "AUG | Commando Company (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwi5Hf9Ttk6f6ra695IeKdMW-VwPhv_rQ5F3DlkUxwtm_dyNarJXjGOgcpWZpwR7Vcuxm_k4DvMru35gGMiIpbjXKpGrzVZYI",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "AUG"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Commando Company"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

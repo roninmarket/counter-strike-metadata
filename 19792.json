@@ -1,0 +1,31 @@
+{
+  "name": "★ Skeleton Knife | Ultraviolet (Factory New)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1I5PeibbBiLs-AAViA1PxmvORWQyC0nQlp4WTSnN74J3PCOAF0A5V3R-ACsUS6kYCzYrzk7geI2YlMzS2r2i1NvzErvbhVpSdBEA",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Skeleton Knife"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Ultraviolet"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Factory New"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

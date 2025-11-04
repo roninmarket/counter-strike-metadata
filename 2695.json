@@ -1,0 +1,27 @@
+{
+  "name": "G3SG1 | Dream Glade (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2zYXnrB1Y-s2pO7dqcc-UAmaUxNF-teB_Vmfkk0p_tjncz9_4ci_EPFIiApJ1Ru9fuxa5lofvMe7gsQ3diY0Rnnj6kGoXuR46CVww",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "G3SG1"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Dream Glade"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

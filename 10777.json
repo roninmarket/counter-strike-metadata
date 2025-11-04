@@ -1,0 +1,27 @@
+{
+  "name": "StatTrak™ AWP | PAW (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_C9k7uW-V7RsN-CSGViYxO9gqa9sHnzllB91sj_WzomoeHyeOwZ2XMFxF-IK5hm5ltK0Zryx4waPiIkU02yg2XV1EFx3",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "AWP"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "PAW"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "StatTrak"
+    }
+  ]
+}

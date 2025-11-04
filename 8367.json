@@ -1,0 +1,27 @@
+{
+  "name": "SSG 08 | Threat Detected (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLijZGwpR1a4s2nZrBoLPyaCWKewutJv_NoQS62qhUisiuc1Nv4cSrFO1IoA8R5ELECtBW6lobnNu3g4Fbc2d0RnHj_jSsfuHw-4-wcEf1ylUDOAlo",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "SSG 08"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Threat Detected"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

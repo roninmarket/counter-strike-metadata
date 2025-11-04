@@ -1,0 +1,27 @@
+{
+  "name": "SG 553 | Barricade (Well-Worn)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1I_82ve6NsMvSsGWaczdF7teVgWiT9wRsj5GTQmIqtIn6SO1B1DsB0R-cJtEaxldO1MbiztlHcjdlEySv_jjQJsHitxQ0SXQ",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "SG 553"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Barricade"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Well-Worn"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

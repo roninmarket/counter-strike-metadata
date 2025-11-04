@@ -1,0 +1,27 @@
+{
+  "name": "StatTrak™ AWP | PAW (Well-Worn)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_C9k7uW-V7RsN-CSGVidxOp_pewnG3u1lEkm62vdy9ipICnDa1VzWZomRuVetxm4wIDlM-Pnsgfd2owQyTK-0H1CZIxs5g",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "AWP"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "PAW"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Well-Worn"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "StatTrak"
+    }
+  ]
+}

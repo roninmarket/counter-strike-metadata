@@ -1,0 +1,27 @@
+{
+  "name": "Souvenir M249 | Submerged (Factory New)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wiFO0P_8PP1SM_OSHGaS_uJ_t-l9AXmyxkt0t2yDyYurci6TPQcgCcckTOMLsxCwk9PiM7i041Tago1FnH7gznQeMmXICmk",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "M249"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Submerged"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Factory New"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Souvenir"
+    }
+  ]
+}

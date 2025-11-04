@@ -1,0 +1,27 @@
+{
+  "name": "M4A1-S | Blood Tiger (Field-Tested)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_iKMXWVxfp_t-R7cCS2kRQyvnPcy9mpd3qTbQN2CJR2Q-Rf4BCwktPvPrvi4g3WgopGmSn63HxBun5i_a9cBsbjwlfj",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "M4A1-S"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Blood Tiger"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Field-Tested"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

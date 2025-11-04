@@ -1,0 +1,27 @@
+{
+  "name": "MP5-SD | Bamboo Garden (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1T9s2saalvL_-sHXOdwPx1j-lsTj-q2x91t2nQwo76d3LFOwMlC8YkFLYKtBC8lNThZOi04AaPgtpMnn74hiNXrnE8BXhhHoU",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "MP5-SD"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Bamboo Garden"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

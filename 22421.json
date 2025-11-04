@@ -1,0 +1,31 @@
+{
+  "name": "★ Talon Knife | Case Hardened (Factory New)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1M5vahf6lsK_WBMWaB_uF_vORtcCW6khUz_WqBzd39Ii_CaVApAsYlEeUO4xXslNexY7nl5ALWjI0WmSqq3XlN5yx1o7FV8eN3eSM",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Talon Knife"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Case Hardened"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Factory New"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

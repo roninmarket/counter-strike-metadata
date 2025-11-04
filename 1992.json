@@ -1,0 +1,27 @@
+{
+  "name": "Dual Berettas | Pyre (Minimal Wear)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL0kp_0-B1T9s2pbah9Jf6sCmaCytF6ueZhW2fhzU8l4G3dyYr4d3jCPAd1AsdwQ-QD5hS7x9XlZOi35wGM2IMWzX2vkGoXuX-7oZQZ",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Dual Berettas"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Pyre"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Minimal Wear"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

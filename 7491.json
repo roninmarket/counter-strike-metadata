@@ -1,0 +1,27 @@
+{
+  "name": "PP-Bizon | Wood Block Camo (Minimal Wear)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLzl4zv8x1T9s25Z6tpH_eBD26e_u13ve5WXSy3qhEutDWR1NyucS6XPQMmD5p1ELYC4EG5xoCxMezktgHZjoJDnH342ChLu3k5sO4cEf1y1FpRu8Y",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "PP-Bizon"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Wood Block Camo"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Minimal Wear"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

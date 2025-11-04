@@ -1,0 +1,27 @@
+{
+  "name": "SSG 08 | Grey Smoke (Minimal Wear)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLijZGwpR1I4PGmV6ZhL-KRMWWH_uJ_t-l9ASu1kBt_sD_dzN-pcX6ROlMgD5d5FuQP5hC4m4XlY-PkswbdjN8Xn3_gznQeOZ1jkG0",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "SSG 08"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Grey Smoke"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Minimal Wear"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

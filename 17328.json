@@ -1,0 +1,31 @@
+{
+  "name": "★ Classic Knife | Safari Mesh (Well-Worn)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y_OGRe7RSLfWABliEwOBJveRtRjy-20R-62-HzNn_JXPEbQQjXsMhF7EJtxXukd2zMeK2sQfdjI9Fy32qjnlXrnE8WqJDv0k",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Classic Knife"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Safari Mesh"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Well-Worn"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

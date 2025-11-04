@@ -1,0 +1,27 @@
+{
+  "name": "M4A1-S | Wash me plz (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_iKMWiGxPxmsfJ6cC28mhkrtgKIzo6oMhTPO1dmQ4whEbVc4Ea_xNTlYr7jsgKM2dgUmyn3j3kd6n1jt-sCB_J2_vKF3l6VL_Rjtq37oH9A",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "M4A1-S"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Wash me plz"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

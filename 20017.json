@@ -1,0 +1,31 @@
+{
+  "name": "★ Sport Gloves | Vice (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk5UvzWCL2kpn2-DFk_OKherB0H_KfG2Kv0ed4u95hSiiljFN-tj-Am4uvdHOeO1JyDcByQude4BDsw9GxYu605lHZiIMRmCSvjXtP8G81tFEXEeyk",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Gloves"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Sport Gloves"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Vice"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

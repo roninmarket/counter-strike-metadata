@@ -1,0 +1,27 @@
+{
+  "name": "Negev | Wall Bang (Field-Tested)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1Y-s2hfqF_MPGAHViX0-9wj-9sSCylqhAitzSQl8GudHyXZlInCJN5FOQP4Rjsm4XjZLvl4QDd3YtFnyn6jC1A6yto6udXT-N7rWNnMm_R",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Negev"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Wall Bang"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Field-Tested"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

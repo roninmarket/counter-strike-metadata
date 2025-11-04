@@ -1,0 +1,31 @@
+{
+  "name": "★ StatTrak™ Survival Knife | Safari Mesh (Well-Worn)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5t-MM-eC3SY_vp3vt5kSi26gBBpt2_TnIz4di-ePVIlCJV0ELRZ5hPul9DiZOuxsQbXi4oUyn6oiCwduzErvbjSIiNorA",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "StatTrak™ Survival Knife"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Safari Mesh"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Well-Worn"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

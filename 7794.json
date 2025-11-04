@@ -1,0 +1,27 @@
+{
+  "name": "SCAR-20 | Palm (Minimal Wear)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk_OKReKVhLc-fB2CY1aAl6eM_GyuxlEh0tm6Eztj4dCiWbw92DppyTeYP4xDrkt3gZejn4ATZlcsbmiqh02Pr",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "SCAR-20"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Palm"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Minimal Wear"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

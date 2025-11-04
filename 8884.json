@@ -1,0 +1,27 @@
+{
+  "name": "Souvenir Dual Berettas | Twin Turbo (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL0kp_0-B1Y-s2qfaVhH_WfB3OV0tFkse1lVha7kBwxqnOAzI2hdS2QZ1UlDZd0R-9f4xXsl93jM-zmswTZgooQnHj5jy9Luyxv_a9cBrBqxN-M",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Dual Berettas"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Twin Turbo"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Souvenir"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "★ Paracord Knife | Doppler (Minimal Wear)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJD4eOkgYKSqPr1Ibndk2JL7cFOhuDG_Zi7iwfjrkdpN22mdtPGJ1Q5Zw3XrAPsxb3p0Z_o7c_KzHBj6XEjsH-MmAv3308TscgGJg",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Paracord Knife"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Doppler"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Minimal Wear"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

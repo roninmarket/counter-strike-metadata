@@ -1,0 +1,27 @@
+{
+  "name": "G3SG1 | Orange Crash (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2zYXnrB1I_82pO7dqcc-eB2uZ1ed3v_NoQS62qhUisiuc1N2ocC6QbAdxDZB2E-Je5BK9koblMb7nswPWgogTmSv_3HtB6H1i5e8cEf1ypBNYogo",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "G3SG1"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Orange Crash"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

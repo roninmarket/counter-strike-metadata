@@ -1,0 +1,31 @@
+{
+  "name": "★ StatTrak™ Kukri Knife | Scorched (Well-Worn)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Q-vm8YZt-MM-XD3eAzetJveRtRjy-200h5jzcz9ypIi6SO1AnD8RyRe9ethG7kYDiNri2slHZ2YMQxS33hi5XrnE80OrR3TQ",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "StatTrak™ Kukri Knife"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Scorched"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Well-Worn"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

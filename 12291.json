@@ -1,0 +1,27 @@
+{
+  "name": "StatTrak™ M4A1-S | Nightmare (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_OGMWrEwL9lj-9gSCGnmBw1tgKNn47vOGWSZlAlDsR5TOMMthC_mtSxYunq5wKMjN1Gzyr4jCpM7SZs67oHBKpz5OSJ2PEFvghI",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "M4A1-S"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Nightmare"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "StatTrak"
+    }
+  ]
+}

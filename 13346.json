@@ -1,0 +1,27 @@
+{
+  "name": "StatTrak™ Nova | Exo (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_kYDhwiNK0PyhfqVSM_OaMWGZ_uZzsfdwASq3wkQhtmvcyoqtdnrDPVVxD5ImFOMDtEHukICxZO3r4VaIjIpHmCTgznQenmrjIH4",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Nova"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Exo"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "StatTrak"
+    }
+  ]
+}

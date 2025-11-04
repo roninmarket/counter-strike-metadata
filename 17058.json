@@ -1,0 +1,31 @@
+{
+  "name": "★ Broken Fang Gloves | Yellow-banded (Field-Tested)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tg_13jRBnOnITv9idV6fOgb5tqLP-FC3Svzv5zouB9Ria9xE0YozKMiYD3Hi3VMVFPWM4hFrxl-0XkzougWLe3s1yb1pVGziv2hiMc735r47lRU6F086yGiQqUMOc04JMAJv2uTxTaWRoGvaowWsm9mQGNgqFf",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Gloves"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Broken Fang Gloves"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Yellow-banded"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Field-Tested"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

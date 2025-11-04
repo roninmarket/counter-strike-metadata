@@ -1,0 +1,27 @@
+{
+  "name": "Zeus x27 | Olympus (Well-Worn)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLln4Xl7x1B6ue9V7BlNf6XC3WvxuFyj-xsSyCmmFMk52SBw9qhJH6QOlAhWcEjQ-8I5BOwxNDlN-LntAyMg91DziWth3tI8G81tJsBsl6E",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Zeus x27"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Olympus"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Well-Worn"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

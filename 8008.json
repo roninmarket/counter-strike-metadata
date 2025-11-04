@@ -1,0 +1,27 @@
+{
+  "name": "SG 553 | Fallout Warning (Field-Tested)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1I_82gfa9oM-SBB3eV_uN3ou5mQRagkkhy4AKIn4vwNCaJOgF2CZN0QuEJtxDslIe2Zevhs1TY2IxEnHr6ii1O5yc64O9TWfJw_rqX0V_svf0Ewg",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "SG 553"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Fallout Warning"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Field-Tested"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

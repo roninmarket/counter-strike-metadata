@@ -1,0 +1,31 @@
+{
+  "name": "★ Sport Gloves | Scarlet Shamagh (Well-Worn)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk5UvzWCL2kpn2-DFk_OKherB0H_icG2mU0vp5v_VhcDu2kSIqtjmMj4K3eC7EOg8oXJR4QbFb4RTpmtexM7jr4VHW3YoXxSv82y1K6n1p4uYAWb1lpPODO32smQ",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Gloves"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Sport Gloves"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Scarlet Shamagh"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Well-Worn"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

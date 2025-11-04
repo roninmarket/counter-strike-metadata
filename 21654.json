@@ -1,0 +1,31 @@
+{
+  "name": "★ StatTrak™ Skeleton Knife | Damascus Steel (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1I5PeibbBiLs-SH1iUwON3o-J8XBa7kBwxqnPXy46tJXyQP1AjA5UmQ-QCuhS9m4W1N7_n4VPWjI9DnHj72C0Y5y4-_a9cBkSmceoW",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "StatTrak™ Skeleton Knife"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Damascus Steel"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "★ Driver Gloves | Rezan the Red (Field-Tested)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5T441rsfhr9kYDl7h1I4_utY5t_JeqSAFidxOp_pewnGH7lwE5x52zRyIugcSjGawZ2ApZ3E-8LtxWxktyyPu_m5QTdjoxGyzK-0H1sRh_Xhg",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Gloves"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Driver Gloves"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Rezan the Red"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Field-Tested"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Nova | Baroque Orange (Factory New)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_kYDhwiNW0OSrZqF5L6KsAm6Xyfo4tbI6F3zhkB9ztj7XmYmocXjGagJ1XMEiE-FctBe8k9K1N7zmtgyNiJUFk3sHO4PBUg",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Nova"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Baroque Orange"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Factory New"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "★ Driver Gloves | Queen Jaguar (Well-Worn)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5T441rsfhr9kYDl7h1I4_utY5tnIfeGD3Wv2Ot6vO5-cCS2kRQyvnPWzdusInuWbVVzD8R1TOAI5kbum4DgZu-z5wLc2oxFnHmv3CpOvHw4_a9cBj1Jd7OG",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Gloves"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Driver Gloves"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Queen Jaguar"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Well-Worn"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

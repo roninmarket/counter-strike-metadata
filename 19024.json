@@ -1,0 +1,31 @@
+{
+  "name": "★ Navaja Knife | Blue Steel (Well-Worn)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1c9uK9cZtnIfOYBWmZx-tJsfBWTSWmkBkYvjiBk5r0b3uRagclDsR1FudYtRa-xtzgN-7m41SIjt9GxCr22C1KvXk55OgAVKo7uvqAow4lkm4",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Navaja Knife"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Blue Steel"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Well-Worn"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

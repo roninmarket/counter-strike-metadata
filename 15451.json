@@ -1,0 +1,27 @@
+{
+  "name": "Tec-9 | Orange Murano (Minimal Wear)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLlm5W5wipC0P-7eqVjL8-cHGaexutJvOhuRz39xUpx5GiEzIqrJy6Qaw9yW5MjFuUDuxe4kILgNe-wsQaIioxNmX2s3zQJsHgf4ROQiw",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Tec-9"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Orange Murano"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Minimal Wear"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

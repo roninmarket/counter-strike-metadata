@@ -1,0 +1,27 @@
+{
+  "name": "Desert Eagle | Kumicho Dragon (Field-Tested)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7uORbKF-JeKHC2aXzetJu_RkRiq7mhk1sjqKlLD0JC_OK1s-DsclRrYPt0SxltXlMLu04QyNjN9Hyyv2iSJB5ntitb4AAPIi-K3ShxaBb-NmvxQSPw",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Desert Eagle"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Kumicho Dragon"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Field-Tested"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

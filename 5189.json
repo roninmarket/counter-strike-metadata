@@ -1,0 +1,27 @@
+{
+  "name": "MP5-SD | Condition Zero (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1c_M2jePFSI_-dCm6EyOF4quR7QBa7kBwxqnOBm9ytIijGPAJxDpIjR-Nb5xPuwdHjYr7q4w3f39hFniyt2y5I6S5t_a9cBpZaAdJK",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "MP5-SD"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Condition Zero"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

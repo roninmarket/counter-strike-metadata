@@ -1,0 +1,31 @@
+{
+  "name": "★ StatTrak™ Huntsman Knife | Safari Mesh (Minimal Wear)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1P7vG6YadsLM-AHlidxP1-j_VoQRa_nBovp3OEzd7_dn_FOAVxCpp2QuQC4xW9kYaxNOLqtA3dgowWyyn7jnxAuCxj_a9cBvBQQTn3",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "StatTrak™ Huntsman Knife"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Safari Mesh"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Minimal Wear"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

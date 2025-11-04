@@ -1,0 +1,27 @@
+{
+  "name": "CZ75-Auto | Indigo (Minimal Wear)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1I4M2nZqBkJ_-sD2mU_ulktfhWQyC0nQlp5zmGzo2rcXnDbFJxDZoiRrII40Puw9a2YeOwsgbdjNlCnCSoiilK6TErvbj4Q9U5dw",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "CZ75-Auto"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Indigo"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Minimal Wear"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

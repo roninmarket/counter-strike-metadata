@@ -1,0 +1,27 @@
+{
+  "name": "R8 Revolver | Skull Crusher (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLjm4Dv8TRe_c2tfZt_JeacAnGV09F5oPF7Sjqgmg8YuziEjJa3JX6XP1QhDsZ5TOUPskG7ktHlZO7h5VDe2NgRzHiv2C8d6yc4sL4KA71lpPNCGor3Jw",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "R8 Revolver"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Skull Crusher"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "★ StatTrak™ Nomad Knife | Urban Masked (Well-Worn)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1U-uaqZ6t_H-ODMXOR0etJpfNrTieMmBgjuiiI1I6hdXmRPQV0CcF3Q-9ctES7kdDjPujltAPX3t1AyH763yxPuCc56rwcEf1yn2LqUyk",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "StatTrak™ Nomad Knife"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Urban Masked"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Well-Worn"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

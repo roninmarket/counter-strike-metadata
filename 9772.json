@@ -1,0 +1,27 @@
+{
+  "name": "Souvenir PP-Bizon | Irradiated Alert (Field-Tested)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLzl4zv8x1I_82gfa9oM-SBB3eV_uxkv_ZncCS2kRQyvnPVw92geC7EOgZ0DZQhTbQPt0PqkIfiNu7qs1fYjo5AxX_9iX4d5iY9_a9cBorqCG56",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "PP-Bizon"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Irradiated Alert"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Field-Tested"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Souvenir"
+    }
+  ]
+}

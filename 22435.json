@@ -1,0 +1,31 @@
+{
+  "name": "★ Talon Knife | Crimson Web (Well-Worn)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1M5vahf6lsK_WBMW-J_vlzsvJWQiy3nAgq_WSAzov6eHyUOwYhA8FyQ7Fb5he7x920P-Pj5gWIg4tHxCmqhnwb7yt1o7FVJne1xIM",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Talon Knife"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Crimson Web"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Well-Worn"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

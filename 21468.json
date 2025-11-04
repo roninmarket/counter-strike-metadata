@@ -1,0 +1,31 @@
+{
+  "name": "★ StatTrak™ Paracord Knife | Safari Mesh (Field-Tested)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y4OCqV7d9H_2WHW-v1e94j-xsSyCmmFMi4WvWnNj9cymeZ1JyD5B1TO8M5xO9ld3gMOnj5VGMg49Hmy76ji4d8G81tMwdwhN0",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "StatTrak™ Paracord Knife"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Safari Mesh"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Field-Tested"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

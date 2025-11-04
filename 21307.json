@@ -1,0 +1,31 @@
+{
+  "name": "★ StatTrak™ Nomad Knife | Case Hardened (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1U-uaqZ6t_H_GCMWiZzetyj-lsTj-q2x9-5T6HmN3_IHmTPwIkW8ZyRrJY4xLskNS0M77rtATYj99DnC__2HhXrnE8nKGTuEY",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "StatTrak™ Nomad Knife"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Case Hardened"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

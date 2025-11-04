@@ -1,0 +1,27 @@
+{
+  "name": "Souvenir SSG 08 | Carbon Fiber (Minimal Wear)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLijZGwpR1a4s2tabZvL_6sCG6SxPxJvOhuRz39kU9y4GvVyYygdniXaVd0DMckQ-dZtRK-moe0Murl5lHZgosUzSuv2DQJsHj4wzVBbg",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "SSG 08"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Carbon Fiber"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Minimal Wear"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Souvenir"
+    }
+  ]
+}

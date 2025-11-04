@@ -1,0 +1,31 @@
+{
+  "name": "★ Nomad Knife | Tiger Tooth (Minimal Wear)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1U-uaqZ6t_H_GdMXOZxutkj-57Tie0kCIrujqNjsGsIH-WOlUnCpp3FOAMshe-xNHgZe20slPX2YNFn336iy1L6Stp47oET-N7rXiT8mY0",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Nomad Knife"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Tiger Tooth"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Minimal Wear"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

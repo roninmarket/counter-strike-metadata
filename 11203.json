@@ -1,0 +1,27 @@
+{
+  "name": "StatTrak™ Dual Berettas | Hydro Strike (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL0kp_0-B1f-vOiV6FhKeSWMW-Jxfx5j_J9XSC4kCIvtjyTg8H6IHzGOFJ2WMF3FrQK5xi4m9S0MO3jtVSN2YlHziX5hihLu3xr57oBT-N7rcxZmiKF",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Dual Berettas"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Hydro Strike"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "StatTrak"
+    }
+  ]
+}

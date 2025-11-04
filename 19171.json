@@ -1,0 +1,31 @@
+{
+  "name": "★ Nomad Knife | Boreal Forest (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1U-uaqZ6t_H_iKMWGf0-tlpN5rQDu2lBEYuziEjJa3IHqeZgMoC5p2ELYD4Bbpx9flMLzqswfXgoxBmyur3XsY6nlr6-dWB71lpPP5kh2eZg",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Nomad Knife"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Boreal Forest"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

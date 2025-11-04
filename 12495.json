@@ -1,0 +1,27 @@
+{
+  "name": "StatTrak™ M4A4 | Temukau (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiFO0P_6afBSNPWeG2yR1NF-teB_Vmfrl0Ql5j6AntegIinGbQ51A8MmTe4MukLplYflZbnn5ATe3d5GmH73kGoXuZku8dEc",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "M4A4"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Temukau"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "StatTrak"
+    }
+  ]
+}

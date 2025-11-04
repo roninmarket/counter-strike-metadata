@@ -1,0 +1,27 @@
+{
+  "name": "StatTrak™ MP5-SD | Liquidation (Well-Worn)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1Y-s2jePF-JM-CG26TytF6ufB8Ri2ygRQovQKIn4vwNCaJalAgD8Z3E-YM4RiwmtXiP7m3sgbX3oMQyCr4jC5BvSxv5ekFB6J2-7qX0V-vbQmk7Q",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "MP5-SD"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Liquidation"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Well-Worn"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "StatTrak"
+    }
+  ]
+}

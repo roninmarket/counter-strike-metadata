@@ -1,0 +1,31 @@
+{
+  "name": "★ Navaja Knife | Ultraviolet (Minimal Wear)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1c9uK9cZtnIfOYBWmZx-tJo-5WXzyhhREijDGMnYftby3FOgUhAsYjTeZetBm4xtXkNbiw5lPbi9pGxCr92itB7C9q4ekDU6c7uvqA74P7bNU",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Navaja Knife"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Ultraviolet"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Minimal Wear"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

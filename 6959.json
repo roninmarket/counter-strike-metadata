@@ -1,0 +1,27 @@
+{
+  "name": "P90 | Blue Tac (Factory New)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf9Ttk-uGvbpt_L-WdClicyOl-pK9rS3DjwEgjtziHyNioJ3rDaFdxXpR4TbUK4xbtx9K2ZbjltQPei91G02yg2byPK7vI",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "P90"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Blue Tac"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Factory New"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

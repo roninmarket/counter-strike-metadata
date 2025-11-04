@@ -1,0 +1,31 @@
+{
+  "name": "★ Gut Knife | Urban Masked (Well-Worn)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1c-uaRe7RSNPGDC1iF0-x3vt5kSi26gBBp4DjdydyhdC_Fbg9xC8N3QrYN4RTrm4axPu2wtQKK2o5MmXj33yNB7zErvbi2KA4ifQ",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Gut Knife"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Urban Masked"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Well-Worn"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

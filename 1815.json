@@ -1,0 +1,27 @@
+{
+  "name": "Dual Berettas | BorDeux (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL0kp_0-B1I4PGmV6VuMumfB2Svxvx_oPJWRyyygwRpt2TSzdn9InrBP1cnDpolFuAC5Ebrkde2ZeK35AHX2IJEyC_23y4buzErvbiak06smw",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Dual Berettas"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "BorDeux"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

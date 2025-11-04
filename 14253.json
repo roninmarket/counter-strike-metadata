@@ -1,0 +1,27 @@
+{
+  "name": "StatTrak™ SCAR-20 | Trail Blazer (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk_PGvevY9H_aGHH6v1eFmv95hSiiljFN242mDmI2udH6SaFJ2WcF3EecLtBmwl9fiYe-371faj4IRySj_jS5P8G81tOF2vEt4",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "SCAR-20"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Trail Blazer"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "StatTrak"
+    }
+  ]
+}

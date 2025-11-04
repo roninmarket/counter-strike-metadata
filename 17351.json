@@ -1,0 +1,31 @@
+{
+  "name": "★ Classic Knife | Stained (Well-Worn)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y_OGRabVSJv-BDWKU_uNztOh8Qmflk0pytWWAzNqodH3DPQ8lDJcjR7QNu0WwkIC0Mrvh71GM2dhDzn72kGoXueUnH78t",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Classic Knife"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Stained"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Well-Worn"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "SCAR-20 | Magna Carta (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk5-uRabF5KP-BB3OJ_v5jovFlSha7kBwxqnODztehdXPGbwV2X5d3FrQNuxC-m4fgN-7r5gSMiI0Xzy_23ypI530__a9cBmrZn7Vm",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "SCAR-20"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Magna Carta"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

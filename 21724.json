@@ -1,0 +1,31 @@
+{
+  "name": "★ StatTrak™ Skeleton Knife | Ultraviolet (Well-Worn)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1I5PeibbBiLs-AAViA1PxmvORWQiy3nAgq_T7XyIypI3rDOFIlX8YiEeQD4EK6lNHvP7-34VGLjY8Wyy_62C9Ov3l1o7FV4BU3xrk",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "StatTrak™ Skeleton Knife"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Ultraviolet"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Well-Worn"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

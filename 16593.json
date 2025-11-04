@@ -1,0 +1,27 @@
+{
+  "name": "Zeus x27 | Tosai (Field-Tested)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLln4Xl7x1B6ue9V7BiM_GaMWqVxedjva86TXrmxktx4GTRy46rcH6TbgYiD8AkELQC4Rm9kN22YbnqsQXd2dlH02yg2Y8fat_m",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Zeus x27"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Tosai"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Field-Tested"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

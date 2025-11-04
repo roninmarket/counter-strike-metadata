@@ -1,0 +1,31 @@
+{
+  "name": "★ Skeleton Knife | Scorched (Field-Tested)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1I5PeibbBiLs-AHliUwP5mvORWQiy3nAgq_TzXm96rI3OTalN1D8F3RbZbsBHtkty0Yuqw5lHXj4NMyS-sjy9AvSd1o7FVOo5OOMU",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Skeleton Knife"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Scorched"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Field-Tested"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

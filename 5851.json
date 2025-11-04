@@ -1,0 +1,27 @@
+{
+  "name": "Negev | Army Sheen (Field-Tested)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_m5Hl6x1a4s2veql0H-ObB2mV_uNztOh8Qme3xEol5GTQw4n9cy7BaARyDMEkTONe5BHpm9e0NLzi5wzf2I9Mm3n-kGoXufR_D7O0",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Negev"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Army Sheen"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Field-Tested"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

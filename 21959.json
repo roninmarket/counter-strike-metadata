@@ -1,0 +1,31 @@
+{
+  "name": "★ StatTrak™ Talon Knife | Forest DDPAT (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1M5vahf6lsK_WBMW-J_upyoOB9cCG2lAs-_W6BmI2hIHLGbQ8pC5tzRe5csUK6m4KxZL_h7gLagotGzyirjn9M5yt1o7FVSbJqK6Y",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "StatTrak™ Talon Knife"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Forest DDPAT"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

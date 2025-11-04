@@ -1,0 +1,31 @@
+{
+  "name": "★ Bayonet | Doppler (Factory New)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLzn4_v8ydP0POjV7Z4IumsA2aCw-JzuftsSxa_nBovp3PWnomsdn2QPVN0D5UiEOUP50LtltTvY-Ll4g3YjItFmSv-2i9A6X4-_a9cBu2YVmHc",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Bayonet"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Doppler"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Factory New"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

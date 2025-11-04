@@ -1,0 +1,27 @@
+{
+  "name": "Souvenir MP5-SD | Oxide Oasis (Field-Tested)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1c_M2jePFSLvWcAFiWzet9pOB7QRa-kBkupjDLzd6gInrEOlNzD5VwE-JbsRixk9bnMenl7lbcg4oQn3r23CJLuHxo6vFCD_SYd4gpqg",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "MP5-SD"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Oxide Oasis"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Field-Tested"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Souvenir"
+    }
+  ]
+}

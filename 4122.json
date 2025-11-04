@@ -1,0 +1,27 @@
+{
+  "name": "M4A4 | Buzz Kill (Well-Worn)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwiVI0P_6afBSM_WQGmiC_uNztOh8QmflwU0m5DnczNqocn6VZ1B1CcN1E7MK4BG_ktbgZLjitQfciopAn3_-kGoXucG-VCzE",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "M4A4"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Buzz Kill"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Well-Worn"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

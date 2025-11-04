@@ -1,0 +1,27 @@
+{
+  "name": "P90 | Sunset Lily (Minimal Wear)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhx8bf7jJk7f6hZ6lSL-KSAGCV_uJ_t-l9AX3klxl_5mzQmN34dXLDaAd0XJYmROIJsUHswdzuYe7ktgzfit1DmS_gznQesD3mhjI",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "P90"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Sunset Lily"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Minimal Wear"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

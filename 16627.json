@@ -1,0 +1,31 @@
+{
+  "name": "★ Bayonet | Boreal Forest (Field-Tested)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLzn4_v8ydP0Pq3V6JiMvWAGliSzvxzse1WQiy3nAgq_TuEnNj6JCmeZlMjDpRyRuYL5BW4wIfiNbzktg2NiosXxXn6hyIb63l1o7FVsdXZR7U",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Bayonet"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Boreal Forest"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Field-Tested"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

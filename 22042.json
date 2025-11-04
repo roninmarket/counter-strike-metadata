@@ -1,0 +1,31 @@
+{
+  "name": "★ StatTrak™ Ursus Knife | Damascus Steel (Well-Worn)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1O_eG7e5tsMc-XD2qR0u1jo955XSCgmBwYvjiBk5r0by7EbAUiAsZxRLENshG-lYG1Zrng41aKi4pMn3383C5J6Xxs5LxUWfA7uvqASUlUwQs",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "StatTrak™ Ursus Knife"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Damascus Steel"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Well-Worn"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "R8 Revolver | Cobalt Grip (Factory New)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLjm4Dv8TRe_c29Z6dlH_mdCm6XztFxouh5XBa_nBovp3ODyI2scn3BO1J2WJJ0F-MLsha6wNTgY7_m4VePid9AzSv4iC9LuiY5_a9cBmU4DDcB",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "R8 Revolver"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Cobalt Grip"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Factory New"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

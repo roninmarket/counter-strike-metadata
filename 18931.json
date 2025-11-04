@@ -1,0 +1,31 @@
+{
+  "name": "★ Moto Gloves | Cool Mint (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu4r7_lb1QgTykpPf-i5U-fe9V6liNP-BDX6TzetJpPNgTie0mRgYsTGQn7DxJCrRJxgjWMQkQe9Zuka-l9TjYrzk7g2MiY0WyyX22y4f7no_5uZTUKR3qfWCkUifZny931BB",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Gloves"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Moto Gloves"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Cool Mint"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

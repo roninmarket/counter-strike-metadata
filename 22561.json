@@ -1,0 +1,31 @@
+{
+  "name": "★ Ursus Knife | Boreal Forest (Well-Worn)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1O_eG7e5tlOc-VAXWV0vpJsu57Sii_qhAitzSQl8H9cnqXbA4mC8d4FOAKtxXul9ayMO2xswXfid5Nmyr72H9L6Cg-srlXT-N7rW2_zIB6",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Ursus Knife"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Boreal Forest"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Well-Worn"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

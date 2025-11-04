@@ -1,0 +1,27 @@
+{
+  "name": "StatTrak™ M249 | Downtown (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wiFO0P_8PP1SJP-EAHGf1etJuORoWTD9xhsisWWHztyrJH7FaVUmD8d5FLQK50S_lIa0N7zgsVPWjIxCyi34hjQJsHg2M3rzsQ",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "M249"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Downtown"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "StatTrak"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "StatTrak™ R8 Revolver | Grip (Field-Tested)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLjm4Dv8TRe_c2pe5t_JeacAnGV09FiouRoSxa-kBkupjDLnN-oJ3rDb1IjCZp4FLRcs0G5xIfjNLnl4wDXi4kXnyr2iitL6H1r5_FCD_SN4VlSZA",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "R8 Revolver"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Grip"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Field-Tested"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "StatTrak"
+    }
+  ]
+}

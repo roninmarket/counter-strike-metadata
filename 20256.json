@@ -1,0 +1,31 @@
+{
+  "name": "★ StatTrak™ Butterfly Knife | Autotronic (Minimal Wear)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Z-ua6bbZrLOmsCXSvw_tipOR7SSWqqhwypzKRiID3KCj4Ml93UtZuROIDtUawltG1N-Pj4gaMg98Xyy2q2CxN63k54uwHBfd0-_GEhwHBOap9v8dVISN0PQ",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "StatTrak™ Butterfly Knife"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Autotronic"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Minimal Wear"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

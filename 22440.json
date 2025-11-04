@@ -1,0 +1,31 @@
+{
+  "name": "★ Talon Knife | Damascus Steel (Field-Tested)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1M5vahf6lsK_WBMWaB_up3veB6TDygqgoutzKSpYL8JSLSMxh2CJIiR-IJ4UG-kN3hN-_h7gHZiNoTnC-v23sb5yk-trkGA6Fw-vKGkUifZtlUtr3S",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Talon Knife"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Damascus Steel"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Field-Tested"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

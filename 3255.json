@@ -1,0 +1,27 @@
+{
+  "name": "Glock-18 | Gamma Doppler (Field-Tested)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2kpnj9h1a4s2rZaF_IfyXMWqR0-x6tehzSi2MkhEosDa6l4r9KD7KcFUoCsAhFrUL4BO_wNXgMbjhsgOIj41Cyn3-i39A6S44se9RU6Zz-qTJz1aW80BuuuM",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Glock-18"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Gamma Doppler"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Field-Tested"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "★ StatTrak™ Survival Knife | Slaughter (Minimal Wear)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5tsLc-JC2WCwNF6ueZhW2fglEt-5jmDytn_InKRPwQkAsQhE-UJu0a4lYflNO7k41bc34sTyH76kGoXuTxGW3zC",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "StatTrak™ Survival Knife"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Slaughter"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Minimal Wear"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

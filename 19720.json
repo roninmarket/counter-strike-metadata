@@ -1,0 +1,31 @@
+{
+  "name": "★ Skeleton Knife | Doppler (Minimal Wear)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1I5PeibbBiLs-SA1iC1Oxvj-xoXSu_kBQ9tjm6lob-KT-JPVAnCJojELJetUG5wIC1ZLjr7wXXgolFmCivjXhN7Hxi4-YEUKok87qX0V8jai52PA",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Skeleton Knife"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Doppler"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Minimal Wear"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "M249 | Shipping Forecast (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wipC0OihbK1sI6OsBmKR1_c45bVtTCzmwUl0626BzdmucH2RPwQgW5dxTOdf4Ba9kYW2MLnltATfg5UFk3u5-N2e-w",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "M249"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Shipping Forecast"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

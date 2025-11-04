@@ -1,0 +1,31 @@
+{
+  "name": "★ StatTrak™ Shadow Daggers | Bright Water (Field-Tested)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1L-uGmV6x0H_-QC2ae_uV4uedscHDjqhAitzSQl8H6In2Qa1IlDZFxTLFZtRGwltO2MO60swTb2N5MzSv9jiMb7C5vte1WT-N7revzUT53",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "StatTrak™ Shadow Daggers"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Bright Water"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Field-Tested"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

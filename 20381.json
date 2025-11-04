@@ -1,0 +1,31 @@
+{
+  "name": "★ StatTrak™ Classic Knife | Boreal Forest (Minimal Wear)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y_OGRYL1SJv-BC3SE_ux5ouRoQxa_nBovp3OHytj4IH7FOldyXMAmFuRftxG6xIWxZOux7lOLjoJBzCj92i5N6H5s_a9cBvSJSM6F",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "StatTrak™ Classic Knife"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Boreal Forest"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Minimal Wear"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

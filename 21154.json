@@ -1,0 +1,31 @@
+{
+  "name": "★ StatTrak™ M9 Bayonet | Freehand (Field-Tested)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Wts2sab1iLvWHMWad_uN3oupsSxamhSJ-4wKIn4vwNCaJbAEpC8chReNf4BO-lNbmMuu3tg3a2t9CmS_6jyhB63xr5r4CVfcgrLqX0V_ZCx8dXQ",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "StatTrak™ M9 Bayonet"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Freehand"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Field-Tested"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

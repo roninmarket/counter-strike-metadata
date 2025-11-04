@@ -1,0 +1,27 @@
+{
+  "name": "Souvenir Tec-9 | Blast From the Past (Factory New)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLlm5W5wipC0POga61oLuSsGm6cxP1JoORoTCGMmRQguynLm4qpJ3PDaQ9zXpIjQ-AJ4xawlNOzMrjktVPZ349AmS323Xga534-tvFCD_QT7Lx_Ug",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Tec-9"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Blast From the Past"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Factory New"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Souvenir"
+    }
+  ]
+}

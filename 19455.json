@@ -1,0 +1,31 @@
+{
+  "name": "★ Paracord Knife | Urban Masked (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y4OCqV7d9H-SSHmKv1Px0se9WRyyygwRp42vSzo2hJXqWZ1MlC8d5FLNc4xm6k4bkZrvm4gyMidpCmCn5hiNBujErvbjBX8pzfQ",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Paracord Knife"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Urban Masked"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

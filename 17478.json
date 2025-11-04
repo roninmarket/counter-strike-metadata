@@ -1,0 +1,31 @@
+{
+  "name": "★ Driver Gloves | Snow Leopard (Field-Tested)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5T441rsfhr9kYDl7h1I4_utY5tnIfeGD3Wv1uZ_pORWQiy3nAgq_T7QnIqocX-eOAUlAsBwFOcJ5kOxm9LuMeqxtlfdioJFm3j5jC1Auy91o7FVebb_Bd8",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Gloves"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Driver Gloves"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Snow Leopard"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Field-Tested"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

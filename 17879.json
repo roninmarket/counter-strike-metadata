@@ -1,0 +1,31 @@
+{
+  "name": "★ Flip Knife | Ultraviolet (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1d4_u-V7diH-CGHHecxNF-teB_VmfhwEh0smWDyoz9JH-RPQUgCMFxFuUMukHtl92yNOyw7wDejNpNniuokGoXuSS4dPwG",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Flip Knife"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Ultraviolet"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

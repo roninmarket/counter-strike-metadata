@@ -1,0 +1,27 @@
+{
+  "name": "M4A4 | Desert Storm (Field-Tested)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwipC0Pare6F_NM-eC2OZ1OM4tLhtTn3gk0Vx52_WyoqtICiSbVUjCJp2QbQItUW5xoDhZb7h5wGIiZUFk3stf1ZMCg",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "M4A4"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Desert Storm"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Field-Tested"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Five-SeveN | Midnight Paintover (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRYL1SL-aWHHeR0v1JoOBgQT28gxg1jCmAm4PGKS7GKE8-D5d0EbIO5Ea4wdCxM-Pl4AWN3otHzn6qiypPvSk56u4LBaok-qDXiRaBb-OtxJmYZw",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Five-SeveN"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Midnight Paintover"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

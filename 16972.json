@@ -1,0 +1,31 @@
+{
+  "name": "★ Bowie Knife | Rust Coat (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1I-uC4YbJsLM-RAXCZxNF3od56Wyy2mSIsvTSDn7DxJCrRJxh0DpUjE7YNsha5ltXvMrvr4QfaiN0WnCWq3S5A7ipq6rwBVaIj_6zXkUifZspK8hQn",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Bowie Knife"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Rust Coat"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

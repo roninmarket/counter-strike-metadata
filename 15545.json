@@ -1,0 +1,27 @@
+{
+  "name": "Tec-9 | Tiger Stencil (Field-Tested)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLlm5W5wjFU7PqRfK1qJeKsHXOVz-1_vN59SirqqhAitzSQl8H7cSjGOlV1CcZ5QeAK4UPpxIfnY7u0sg3Y2YtGyCT5iCsb53li5uwDT-N7rclgD-MW",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Tec-9"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Tiger Stencil"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Field-Tested"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

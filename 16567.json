@@ -1,0 +1,27 @@
+{
+  "name": "Zeus x27 | Electric Blue (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLln4Xl7x1I4PeRbahoI-SBB2Svw-Jjtd5hSiiljFN25TjRmIurJ36VagAkX8d5E7FbsUG_x9C0Nby24ASL2o1FyiX_3SJK8G81tAId_Q47",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Zeus x27"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Electric Blue"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

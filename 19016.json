@@ -1,0 +1,31 @@
+{
+  "name": "★ Navaja Knife | Blue Steel (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1c9uK9cZtnIfOYBWmZx-tJsfBWTSWmkBkYuziEjJa3d3uROlJ1CsQhQbIOt0G5koe2Y7y24QPXg9pAxX373ylMui9o6-4GUb1lpPOBeu-2Rg",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Navaja Knife"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Blue Steel"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

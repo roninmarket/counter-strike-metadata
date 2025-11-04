@@ -1,0 +1,31 @@
+{
+  "name": "★ StatTrak™ Shadow Daggers | Crimson Web (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1L-uGmV6x0H-eWDHSvyet3pvgnGi_rlEsj5T7cyNyvcH-SZ1IhX8cjQ-8DtEK8wdDgY7ji5QLY2YNMyjK-0H1X4pIOlQ",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "StatTrak™ Shadow Daggers"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Crimson Web"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Souvenir Zeus x27 | Charged Up (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLln4Xl7x1B6ue9V7d5If6XD3WU_udlo_RscCG2lAs-_W7TmY2tI37COwIiDcchE7ICshWww9ziML_k4gaMiN9DzCj8jCNO5yd1o7FVlLRIXZs",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Zeus x27"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Charged Up"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Souvenir"
+    }
+  ]
+}

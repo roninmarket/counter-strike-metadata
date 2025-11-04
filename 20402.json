@@ -1,0 +1,31 @@
+{
+  "name": "★ StatTrak™ Classic Knife | Night Stripe (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y_OGRe7RSLvmUBnOD1fx_oORWRyyygwRp4TnQy9j7cSjGPw4nCZQmR-NZtxe-m9C1Ye7jtQbZi4xMnHr_23xA6zErvbh2zA5UbQ",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "StatTrak™ Classic Knife"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Night Stripe"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

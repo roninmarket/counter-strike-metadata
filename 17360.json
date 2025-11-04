@@ -1,0 +1,31 @@
+{
+  "name": "★ Classic Knife | Urban Masked (Well-Worn)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y_OGRe7RSNPGDC1iF0-x3vt5kSi26gBBpsWzUytr4di6WPA91DJAkROMK5BnrlobvML_j5wWP2t1Bnyqr3y1M7TErvbi0ObEngw",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Classic Knife"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Urban Masked"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Well-Worn"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "★ StatTrak™ Stiletto Knife | Crimson Web (Field-Tested)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1I-_uibbB5L8-bF1iHxOxlj-xsSyCmmFNz5mjdmNioc3uVagEhCJNxFrRc4EW9ktTlY-u3sgWN3d4RySr63CJO8G81tId39Y7c",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "StatTrak™ Stiletto Knife"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Crimson Web"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Field-Tested"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

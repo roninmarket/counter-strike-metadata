@@ -1,0 +1,31 @@
+{
+  "name": "★ StatTrak™ Shadow Daggers | Freehand (Minimal Wear)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1L-uGmV6VgH_2SHGyVxdFjoN4wHxa_nBovp3OHzomhdC3BbwIiDZV2Ru9ZukK4ld2zYerg4AGNjItExCT52C0c7H0__a9cBh2VpMK4",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "StatTrak™ Shadow Daggers"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Freehand"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Minimal Wear"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

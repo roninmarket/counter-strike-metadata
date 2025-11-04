@@ -1,0 +1,31 @@
+{
+  "name": "★ StatTrak™ Butterfly Knife | Scorched (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Z-ua6bbZrLOmsHXevxe9moO1scCG2lAs-_W3SnNaheX2fOFR1CZYiEbZY5BS6w9CxYu2w7geL3YhFySmti3xJunl1o7FVGYGNp1c",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "StatTrak™ Butterfly Knife"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Scorched"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

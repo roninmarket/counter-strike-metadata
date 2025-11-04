@@ -1,0 +1,27 @@
+{
+  "name": "Nova | Turquoise Pour (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_kYDhwjFU4M2va7Z0LPmQMWGczvlJpPR7Xjy8nA4ijDWAm5ngb36RZlIiC5MmReBe5hbux9SxP-Pr51HejtpAyXmr3C8cvS9r6-4HV6s7uvqAhdBH0dw",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Nova"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Turquoise Pour"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

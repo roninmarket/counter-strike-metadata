@@ -1,0 +1,31 @@
+{
+  "name": "★ Stiletto Knife | Scorched (Well-Worn)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1I-_uibbB5L8-AHliUwP5mvORWQiy3nAgq_WTWw9_8cXySawYnC5J5QrZftEK4kdDhNO_isgWIg4wXmHr-338cuyd1o7FVA2lbzOY",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Stiletto Knife"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Scorched"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Well-Worn"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

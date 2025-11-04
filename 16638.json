@@ -1,0 +1,31 @@
+{
+  "name": "★ Bayonet | Bright Water (Minimal Wear)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLzn4_v8ydP0Pq3V6tuJfGdMWyeyOhzj-1gSCGn20hz5DuAyIquJXmWaAMoW5QmE7YI4UG5xNOxN-3m4AHb3tlDmyiojHlXrnE80X-NDyA",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Bayonet"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Bright Water"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Minimal Wear"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

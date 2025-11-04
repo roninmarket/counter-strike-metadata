@@ -1,0 +1,31 @@
+{
+  "name": "★ Paracord Knife | Rust Coat (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y4OCqV6V8H-OHC2Kc_uV4uedscCG2lAs-_TnUzdqgdymUPwN2DMZwR7Jf4Be9xoblZOnr4Ffa2IJFmCSojysY5311o7FV8WoBr0k",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Paracord Knife"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Rust Coat"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}

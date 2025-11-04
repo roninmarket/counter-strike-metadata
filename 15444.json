@@ -1,0 +1,27 @@
+{
+  "name": "Tec-9 | Nuclear Threat (Minimal Wear)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLlm5W5wjFL0Py7Y6F-NOKaHmKvxvxzte9WWyywzCIrujqNjsGtIyjEbQR1A8Z1QLVZtha_k9HvNbu04wTei4sWxCX93SJP7nw_4rtWT-N7rTdwfM9W",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Tec-9"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Nuclear Threat"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Minimal Wear"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    }
+  ]
+}

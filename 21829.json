@@ -1,0 +1,31 @@
+{
+  "name": "★ StatTrak™ Survival Knife | Blue Steel (Factory New)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5tsMc-RAnKVxdF6ueZhW2fqxBh1tWXVm4v9c3iTawUnDpsjQeMMshW6ld2xP-_q5w3bjoNCyHn2kGoXucNZoqIn",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Knife"
+    },
+    {
+      "trait_type": "Item",
+      "value": "StatTrak™ Survival Knife"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Blue Steel"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Factory New"
+    },
+    {
+      "trait_type": "Quality",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Rare Class",
+      "value": "★"
+    }
+  ]
+}
