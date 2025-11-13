@@ -1,0 +1,23 @@
+{
+  "name": "Glock-18 | Shinobu (Battle-Scarred)",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2kpnj9h1c4_2tY5t-KPmdAWWF_uZzsfdwAS3hxBx-6jjSy4v9Iy-RPQcmW5d1QeNcsxm4wdLlP-i25gXb2YJGmCvgznQeZrF0Kzk",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Glock-18"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Shinobu"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Battle-Scarred"
+    }
+  ]
+}
