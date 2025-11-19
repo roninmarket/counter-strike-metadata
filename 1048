@@ -1,0 +1,23 @@
+{
+  "name": "",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wiFO0POlPPNSI_-UGm-Zz-llj-1gSCGn2x4l5z_RyNj6JXnEbgFzXMYjEOUIsBe5m9exP-zg4leMj4pGxXn7jCJXrnE84asPq_0",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "AK-47"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Ice Coaled"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Minimal Wear"
+    }
+  ]
+}

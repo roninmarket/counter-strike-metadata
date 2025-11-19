@@ -1,0 +1,23 @@
+{
+  "name": "",
+  "description": "",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkjYbf7itX6vytbbZSM_-WMXOCzv5_s-BlcCW6khUz_WqBz9avIyiRbAQiApB1E-dZsEK7ld3gZuPqtFHbiYtMnyn9hn5Avy51o7FVuRzLF34",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Weapon Skin"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "USP-S"
+    },
+    {
+      "trait_type": "Finish",
+      "value": "Tropical Breeze"
+    },
+    {
+      "trait_type": "Exterior",
+      "value": "Minimal Wear"
+    }
+  ]
+}
